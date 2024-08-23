@@ -1,4 +1,4 @@
-**To-Do List Application**
+** To-Do List Application **
 
 This is a simple To-Do List application created using HTML, CSS, and JavaScript. 
 The application allows users to add, edit, and delete tasks in a list.

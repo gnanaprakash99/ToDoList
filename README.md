@@ -7,3 +7,7 @@ The application allows users to add, edit, and delete tasks in a list.
  - Add Items: Users can input text into an input field, and when the "Add" button is clicked, the text is added as a new item to the list.
  - Edit Items: Each list item has an "Edit" button that allows users to modify the text of the item.
  - Delete Items: Each list item also has a "Delete" button that removes the item from the list.
+
+## Setup
+
+website link: https://ajay1931.github.io/ToDoList/

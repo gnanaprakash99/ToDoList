@@ -10,4 +10,4 @@ The application allows users to add, edit, and delete tasks in a list.
 
 ## Setup
 
-website link: https://ajay1931.github.io/ToDoList/
+website link: https://gnanaprakash99.github.io/ToDoList/
